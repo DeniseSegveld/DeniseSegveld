@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DeniseSegveld
+- 👀 I’m interested in Webdesign
+- 🌱 I’m currently learning Javascript
+- :heart: Robots, dinosaurs, ufo's
+- :musical_note: Spotify, currently listening: Tame Impala
+- :computer: = life
